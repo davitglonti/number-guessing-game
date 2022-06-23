@@ -1,0 +1,31 @@
+#numberguess {
+    font-size: 60px;
+    text-align:center;
+    color:beige;
+    border: 3px solid red;
+}
+body{
+    background-color:rgb(93, 97, 87)
+}
+#container {
+    height: 300px;
+    text-align: center;
+    color:white;
+    background-color: rgb(71, 72, 80);
+    margin-top: 10%;
+    position:relative;
+    
+}
+#changeposition {
+    position :relative;
+    top:30%;
+    margin-top:100px;
+}
+#input, #buton {
+    font-size: 30px;
+}
+#life {
+    font-size:50px;
+    position: relative;
+    top: 30px;
+}
